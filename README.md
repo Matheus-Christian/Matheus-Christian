@@ -1,4 +1,4 @@
-## Oi, Eu sou o Matheus, graduando em Análise e Desenvolvimento de Sistemas.
+## Oi, Eu sou o Matheus, graduado em Análise e Desenvolvimento de Sistemas.
 <div align="center">
   <a href="https://github.com/Matheus-Christian">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Christian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
